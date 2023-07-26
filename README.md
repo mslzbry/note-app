@@ -4,7 +4,7 @@
 
 ## Description
 
-This Note-taking app is built using a node and express backend, with html and css in the frontend. The app is uses express for creating API routes for creating, getting, and deleting notes. It is rudimentary in that it uses a json file as a database; an improvement would be to use MySQL and Sequelize to store notes data.
+This note-taking app is built using a Nodejs and express backend, with HTML and CSS in the frontend. The app uses express for building API routes for creating, getting, and deleting notes. It is rudimentary in that it uses a json file as a database; an improvement would be to use MySQL and Sequelize to store notes data. Finally, the app is deployed using Heroku at the link https://obscure-brook-12350-a87a9047fb05.herokuapp.com/.
 
 ## Table of Contents
 
