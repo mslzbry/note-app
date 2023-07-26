@@ -1,6 +1,1 @@
-[
-    {
-        "title":"Test Title",
-        "text":"Test text"
-    }
-]
+[{"title":"Test Note 1","text":"test note 1","id":1},{"title":"Test Note 2","text":"test note 2","id":2},{"title":"Test Note 3","text":"test note 3","id":3}]
